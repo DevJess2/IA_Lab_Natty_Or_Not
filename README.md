@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Sala com Robôs
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A IA criou uma sala grande, no qual, coloquei animações com robôs nela.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Canva - Mídia Mágica
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei para a IA criar uma sala grande e coloquei animações com robôs nela.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Inicia com uma animação que fica por 10 segundos e some com uma animação. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
